@@ -1,0 +1,16 @@
+{
+    "Security.framework": 2,
+    "SystemConfiguration.framework": 3,
+    "SafariServices.framework": 1,
+    "EventKit.framework": 1,
+    "EventKitUI.framework": 1,
+    "ImageIO.framework": 1,
+    "CoreLocation.framework": 1,
+    "AVFoundation.framework": 1,
+    "AudioToolbox.framework": 1,
+    "WebKit.framework": 2,
+    "libz.tbd": 1,
+    "libc++.tbd": 1,
+    "CoreTelephony.framework": 1,
+    "HealthKit.framework": 1
+}
